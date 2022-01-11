@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://tusharagey.github.io/react-deployment"
+  "homepage": "http://tusharagey.github.io/react-deployment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
